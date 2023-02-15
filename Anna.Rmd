@@ -1,0 +1,15 @@
+---
+title: "Anna"
+output: html_document
+---
+
+Hi! My name is Anna and I am a PhD candidate in the field of Plant Breeding and Genetics. Originally, I am from Roetgen, Germany. I received my Bachelor's degree in Biology from the University of Duesseldorf and my Master's degree in Crop Sciences from the University of Bonn. During my studies, I also spent some time at Michigan State University and Oxford University. In 2019, I moved to Ithaca, NY, to start my program at Cornell. Since I love all the places I have lived, below I am sharing a few photos for you.
+
+Here is some more information about myself:
+
+* I am a scorpion - Szzzzz - but also a wooden dog - Wooof
+* I have three younger sisters and I cannot decide which one I love the most
+* My hobbies include rock climbing, cycling, hiking, and gardening
+* Currently, I am watching way too much Outlander
+
+(Add photos here)
