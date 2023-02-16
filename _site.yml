@@ -5,3 +5,5 @@ navbar:
       href: index.html
     - text: "Anna"
       href: Anna.html
+    - text: "Tomas"
+      href: tomas.html    
