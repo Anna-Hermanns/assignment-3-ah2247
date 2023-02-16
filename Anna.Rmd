@@ -3,13 +3,21 @@ title: "Anna"
 output: html_document
 ---
 
-Hi! My name is Anna and I am a PhD candidate in the field of Plant Breeding and Genetics. Originally, I am from Roetgen, Germany. I received my Bachelor's degree in Biology from the University of Duesseldorf and my Master's degree in Crop Sciences from the University of Bonn. During my studies, I also spent some time at Michigan State University and Oxford University. In 2019, I moved to Ithaca, NY, to start my program at Cornell. Since I love all the places I have lived, below I am sharing a few photos for you.
+### Hi! My name is Anna and I am a PhD candidate in the field of Plant Breeding and Genetics. Originally, I am from Roetgen, Germany. I received my Bachelor's degree in Biology from the University of Duesseldorf and my Master's degree in Crop Sciences from the University of Bonn. During my studies, I also spent some time at Michigan State University and Oxford University. In 2019, I moved to Ithaca, NY, to start my program at Cornell. Since I love all the places I have lived, below I am sharing a few photos for you.
 
-Here is some more information about myself:
+### Here is some more information about myself:
 
 * I am a scorpion - Szzzzz - but also a wooden dog - Wooof
-* I have three younger sisters and I cannot decide which one I love the most
+* I have three younger sisters, one of which is going to have a baby in summer - I am going to become an aunt :D
 * My hobbies include rock climbing, cycling, hiking, and gardening
+* My favorite flowers are Carnations
 * Currently, I am watching way too much Outlander
 
-(Add photos here)
+### This is my hometown:
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/40/31/7b/photo2jpg.jpg?w=500&h=300&s=1)
+
+### My hometown is located in the National Park called Eifel:
+![](https://peakvisor.com/photo/SD/Eifel-National-Park-Germany.jpg)
+![](https://mediaim.expedia.com/destination/3/48e4016f67c7b1035735718e25cc7e3f.jpg)
+### This is Duesseldorf:
+![](https://cdn.eventegg.com//images/travel/3/164/duesseldorf-panorama-with-river-rhein-germany.jpg)
