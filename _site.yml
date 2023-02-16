@@ -7,3 +7,10 @@ navbar:
       href: Anna.html
     - text: "Tomas"
       href: tomas.html
+      output_dir: "."
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    toc: true 
+    toc_float: true 
