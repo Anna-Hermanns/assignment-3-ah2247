@@ -8,26 +8,17 @@ Your first name as the title
 An unordered list of some information about you, including at least 3 bullet points
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+<br />
+Hi, I'm Tomas! 
+<br />
 
-## R Markdown
+## Facts ~ TOMAS 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+* I'm a tech in the Entomology dept. 
+* I'm hoping to get into a PHD program in Herpetology! 
+* My hobbies include, gardening, bike riding, cooking/baking, exercising. 
+* I'm originally from Texas, and I grew up in a Latino household. 
+* I love reptiles/amphibians. 
+* I don't have an online presence. I tend to keep pictures of myself off the internet. 
+<br />
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
