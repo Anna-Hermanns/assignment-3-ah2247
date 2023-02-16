@@ -1,5 +1,5 @@
 ---
-title: "Anna's Homepage"
+title: "Assignment 3 Homepage"
 output: html_document
 ---
 
@@ -15,4 +15,4 @@ output: html_document
 
 <br />
 
-![My favorite flowers are Carnations](https://www.baumschule-horstmann.de/bilder/popup/kartaeuser-nelke-m057248_w_0.jpg)
+![Carnation](https://www.baumschule-horstmann.de/bilder/popup/kartaeuser-nelke-m057248_w_0.jpg)
